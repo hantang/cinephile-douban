@@ -1,0 +1,4035 @@
+{
+  "release_time": "2025-01-25 22:23:28",
+  "update_time": "2025-01-25T22:23:28+0000",
+  "description": "豆瓣电影实时和近期热门榜单",
+  "source": "https://movie.douban.com/chart",
+  "movie_total": 40,
+  "cluster_total": 3,
+  "cluster": [
+    {
+      "release_time": "2025-01-25 22:23:28",
+      "update_time": "2025-01-25T22:23:28+0000",
+      "description": "实时热门电影（20部）",
+      "source": [
+        "https://movie.douban.com/chart",
+        "https://m.douban.com/subject_collection/movie_real_time_hotest"
+      ],
+      "movie_total": 10,
+      "cluster_total": 0,
+      "movies": [
+        {
+          "title": "好东西",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国大陆",
+          "director": "邵艺辉",
+          "genre": "剧情 爱情",
+          "tag": "douban-hot-list",
+          "rank": 1,
+          "douban_id": "36154853",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36154853/",
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg",
+            "douban_type": "电影",
+            "douban_score": 9.0,
+            "douban_vote": 842095,
+            "douban_info": [
+              "2024 / 中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+              "中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦"
+            ],
+            "douban_reward": [
+              "豆瓣2024评分最高喜剧片"
+            ],
+            "douban_comment": [
+              "最爱小孩子猜声音那段，算得上看过的电影里相当浪漫的叙事了。很温和也很有爱。-- 上网就是要发癫 (star=5)"
+            ],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "蛟龙行动",
+          "category": "movie",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "林超贤",
+          "genre": "剧情 动作 战争",
+          "tag": "douban-hot-list",
+          "rank": 2,
+          "douban_id": "35295960",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35295960/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917596815.jpg",
+            "douban_type": "电影",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+              "中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适"
+            ],
+            "douban_reward": [
+              "豆瓣2025最值得期待华语电影"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "破·地狱",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国香港",
+          "director": "陈茂贤",
+          "genre": "剧情 家庭",
+          "tag": "douban-hot-list",
+          "rank": 3,
+          "douban_id": "36712987",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36712987/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915837972.jpg",
+            "douban_type": "电影",
+            "douban_score": 8.4,
+            "douban_vote": 194479,
+            "douban_info": [
+              "2024 / 中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+              "中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文"
+            ],
+            "douban_reward": [
+              "2024年度榜单高分电影精选"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "唐探1900",
+          "category": "movie",
+          "year": 2025,
+          "region": "中国大陆 中国香港",
+          "director": "陈思诚 戴墨",
+          "genre": "喜剧 动作 悬疑",
+          "tag": "douban-hot-list",
+          "rank": 4,
+          "douban_id": "36282639",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36282639/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917556416.jpg",
+            "douban_type": "电影",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 戴墨 / 王宝强 刘昊然",
+              "中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "去唱卡拉OK吧！",
+          "category": "movie",
+          "year": 2023,
+          "region": "日本",
+          "director": "山下敦弘",
+          "genre": "喜剧 音乐",
+          "tag": "douban-hot-list",
+          "rank": 5,
+          "douban_id": "35863319",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35863319/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917349358.jpg",
+            "douban_type": "电影",
+            "douban_score": 7.8,
+            "douban_vote": 37014,
+            "douban_info": [
+              "2023 / 日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+              "日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润"
+            ],
+            "douban_reward": [
+              "豆瓣2024评分最高日本电影"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "误杀3",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国大陆 中国香港",
+          "director": "甘剑宇",
+          "genre": "剧情 悬疑 犯罪",
+          "tag": "douban-hot-list",
+          "rank": 6,
+          "douban_id": "35815771",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35815771/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916533607.jpg",
+            "douban_type": "电影",
+            "douban_score": 6.1,
+            "douban_vote": 114585,
+            "douban_info": [
+              "2024 / 中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+              "中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "封神第二部：战火西岐",
+          "category": "movie",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "乌尔善",
+          "genre": "动作 战争 奇幻 古装",
+          "tag": "douban-hot-list",
+          "rank": 7,
+          "douban_id": "30181250",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/30181250/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917559392.jpg",
+            "douban_type": "电影",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 动作 战争 奇幻 古装 / 乌尔善 / 黄渤 于适",
+              "中国大陆 / 动作 战争 奇幻 / 乌尔善 / 黄渤 于适"
+            ],
+            "douban_reward": [
+              "豆瓣2024最值得期待华语电影"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "摩托日记",
+          "category": "movie",
+          "year": 2004,
+          "region": "阿根廷 美国 智利 秘鲁 巴西 英国 德国 法国",
+          "director": "沃尔特·塞勒斯",
+          "genre": "剧情 传记 冒险",
+          "tag": "douban-hot-list",
+          "rank": 8,
+          "douban_id": "1309015",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/1309015/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p466727772.jpg",
+            "douban_type": "电影",
+            "douban_score": 8.5,
+            "douban_vote": 63200,
+            "douban_info": [
+              "2004 / 阿根廷 美国 智利 秘鲁 巴西 英国 德国 法国 / 剧情 传记 冒险 / 沃尔特·塞勒斯 / 盖尔·加西亚·贝纳尔 罗德里戈·德拉·塞尔纳",
+              "阿根廷 美国 智利 秘鲁 巴西 英国 德国 法国 / 剧情 传记 冒险 / 沃尔特·塞勒斯 / 盖尔·加西亚·贝纳尔 罗德里戈·德拉·塞尔纳"
+            ],
+            "douban_reward": [
+              "第58届英国电影学院奖获奖名单"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "某种物质",
+          "category": "movie",
+          "year": 2024,
+          "region": "法国 英国 美国",
+          "director": "科拉莉·法尔雅",
+          "genre": "剧情 恐怖",
+          "tag": "douban-hot-list",
+          "rank": 9,
+          "douban_id": "35882838",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35882838/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912441039.jpg",
+            "douban_type": "电影",
+            "douban_score": 7.5,
+            "douban_vote": 183949,
+            "douban_info": [
+              "2024 / 法国 英国 美国 / 剧情 恐怖 / 科拉莉·法尔雅 / 黛米·摩尔 玛格丽特·库里",
+              "法国 英国 美国 / 剧情 恐怖 / 科拉莉·法尔雅 / 黛米·摩尔 玛格丽特·库里"
+            ],
+            "douban_reward": [
+              "欧洲恐怖片榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "穿越时空的少女",
+          "category": "movie",
+          "year": 2006,
+          "region": "日本",
+          "director": "细田守",
+          "genre": "剧情 爱情 科幻 动画",
+          "tag": "douban-hot-list",
+          "rank": 10,
+          "douban_id": "1937946",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/1937946/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916690139.jpg",
+            "douban_type": "电影",
+            "douban_score": 8.6,
+            "douban_vote": 413179,
+            "douban_info": [
+              "2006 / 日本 / 剧情 爱情 科幻 动画 / 细田守 / 仲里依纱 石田卓也",
+              "日本 / 剧情 爱情 科幻 / 细田守 / 仲里依纱 石田卓也"
+            ],
+            "douban_reward": [
+              "日本动画片榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        }
+      ],
+      "draft": [
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 842095,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.0
+          },
+          "cover": {
+            "url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2915454411.jpg",
+            "width": 5906,
+            "shape": "rectangle",
+            "height": 8425
+          },
+          "rank_value": 1,
+          "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2915454411.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放",
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36154853",
+          "related_search_terms": [
+            {
+              "name": "《好东西》台词太灵了",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%A5%BD%E4%B8%9C%E8%A5%BF%E3%80%8B%E5%8F%B0%E8%AF%8D%E5%A4%AA%E7%81%B5%E4%BA%86%23"
+            },
+            {
+              "name": "《好东西》里那些隐藏的细节",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%A5%BD%E4%B8%9C%E8%A5%BF%E3%80%8B%E9%87%8C%E9%82%A3%E4%BA%9B%E9%9A%90%E8%97%8F%E7%9A%84%E7%BB%86%E8%8A%82%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+            "https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+            "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+          ],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+          "label": "",
+          "id": "36154853",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "好东西",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "comments": [
+            {
+              "comment": "最爱小孩子猜声音那段，算得上看过的电影里相当浪漫的叙事了。很温和也很有爱。-- 上网就是要发癫",
+              "rating": {
+                "count": 1,
+                "max": 5,
+                "star_count": 5,
+                "value": 5
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/36154853/interest/4351955594",
+              "show_time_tip": false,
+              "is_voted": false,
+              "uri": "douban://douban.com/movie/36154853/interest/4351955594",
+              "platforms": [],
+              "vote_count": 48326,
+              "create_time": "2024-11-13 10:44:25",
+              "status": "done",
+              "user": {
+                "loc": {
+                  "id": "108288",
+                  "name": "北京",
+                  "uid": "beijing"
+                },
+                "reg_time": "2017-05-16 16:04:27",
+                "followed": false,
+                "name": "上网就是要发癫",
+                "in_blacklist": false,
+                "url": "https://www.douban.com/people/161465527/",
+                "gender": "U",
+                "uri": "douban://douban.com/user/161465527",
+                "id": "161465527",
+                "remark": "",
+                "avatar": "https://img3.doubanio.com/icon/up161465527-7.jpg",
+                "is_club": false,
+                "type": "user",
+                "kind": "user",
+                "uid": "161465527"
+              },
+              "ip_location": "福建",
+              "recommend_reason": "",
+              "user_done_desc": "",
+              "id": "4351955594",
+              "wechat_timeline_share": "screenshot"
+            }
+          ],
+          "trend_up": false,
+          "score": 542800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+          "rating_data": {
+            "stats": [
+              0.007846820595500466,
+              0.011544662534944607,
+              0.07460026328634609,
+              0.2721093969559365,
+              0.6338988566272723
+            ],
+            "type_ranks": [
+              {
+                "type": "剧情片",
+                "rank": 0.98
+              },
+              {
+                "type": "爱情片",
+                "rank": 0.99
+              }
+            ]
+          },
+          "url": "https://m.douban.com/movie/subject/36154853/",
+          "release_date": "11.22",
+          "original_title": "",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECLE7RV6Y?type=rank&category=movie&rank_type=year",
+              "rank": 1,
+              "title": "豆瓣2024评分最高喜剧片"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 2,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917596815.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917596815.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35295960",
+          "related_search_terms": [
+            {
+              "name": "《蛟龙行动》定档大年初一",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%AE%9A%E6%A1%A3%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23"
+            },
+            {
+              "name": "《蛟龙行动》开除夕夜零点场",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%BC%80%E9%99%A4%E5%A4%95%E5%A4%9C%E9%9B%B6%E7%82%B9%E5%9C%BA%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+          "label": "",
+          "id": "35295960",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "蛟龙行动",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 187800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+          "url": "https://m.douban.com/movie/subject/35295960/",
+          "release_date": "01.29",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917596815.jpg",
+            "width": 4429,
+            "shape": "rectangle",
+            "height": 6200
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/EC6Q7WZGQ?type=rank&category=movie&rank_type=year",
+              "rank": 10,
+              "title": "豆瓣2025最值得期待华语电影"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "尚未上映"
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 194479,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.4
+          },
+          "rank_value": 3,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915837972.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915837972.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36712987",
+          "related_search_terms": [],
+          "vendor_icons": [],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+          "label": "",
+          "id": "36712987",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "破·地狱",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 148000,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+          "url": "https://m.douban.com/movie/subject/36712987/",
+          "release_date": "12.14",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915837972.jpg",
+            "width": 3000,
+            "shape": "rectangle",
+            "height": 4209
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECEY7UILA?type=rank&category=movie&rank_type=year",
+              "rank": 3,
+              "title": "2024年度榜单高分电影精选"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 4,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917556416.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917556416.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36282639",
+          "related_search_terms": [
+            {
+              "name": "《唐探1900》定档大年初一",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%94%90%E6%8E%A21900%E3%80%8B%E5%AE%9A%E6%A1%A3%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 戴墨 / 王宝强 刘昊然",
+          "label": "",
+          "id": "36282639",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "唐探1900",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": true,
+          "score": 115100,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然",
+          "url": "https://m.douban.com/movie/subject/36282639/",
+          "release_date": "01.29",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917556416.jpg",
+            "width": 3545,
+            "shape": "rectangle",
+            "height": 4960
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "尚未上映"
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 37014,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+          },
+          "rank_value": 5,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917349358.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917349358.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35863319",
+          "related_search_terms": [
+            {
+              "name": "电影去唱卡拉OK吧嗑点多到可怕",
+              "uri": "douban://douban.com/search/result?q=%23%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%94%B1%E5%8D%A1%E6%8B%89OK%E5%90%A7%E5%97%91%E7%82%B9%E5%A4%9A%E5%88%B0%E5%8F%AF%E6%80%95%23"
+            },
+            {
+              "name": "《去唱卡拉OK吧！》内地定档",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%8E%BB%E5%94%B1%E5%8D%A1%E6%8B%89OK%E5%90%A7%EF%BC%81%E3%80%8B%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2023",
+          "card_subtitle": "2023 / 日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+          "label": "",
+          "id": "35863319",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "去唱卡拉OK吧！",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": true,
+          "score": 114200,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+          "url": "https://m.douban.com/movie/subject/35863319/",
+          "release_date": "01.17",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917349358.jpg",
+            "width": 9472,
+            "shape": "rectangle",
+            "height": 14208
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECRY73E2Q?type=rank&category=movie&rank_type=year",
+              "rank": 2,
+              "title": "豆瓣2024评分最高日本电影"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 114585,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.1
+          },
+          "rank_value": 6,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2916533607.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916533607.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35815771",
+          "related_search_terms": [
+            {
+              "name": "《误杀3》提档",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%AF%AF%E6%9D%803%E3%80%8B%E6%8F%90%E6%A1%A3%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+          "label": "",
+          "id": "35815771",
+          "recommended_reason": "",
+          "trend_down": true,
+          "title": "误杀3",
+          "trend_equal": false,
+          "rank_value_changed": 2,
+          "trend_up": false,
+          "score": 108000,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+          "url": "https://m.douban.com/movie/subject/35815771/",
+          "release_date": "12.28",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2916533607.jpg",
+            "width": 3506,
+            "shape": "rectangle",
+            "height": 4902
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 7,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2917559392.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917559392.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/30181250",
+          "related_search_terms": [
+            {
+              "name": "《封神2》首曝预告",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%B0%81%E7%A5%9E2%E3%80%8B%E9%A6%96%E6%9B%9D%E9%A2%84%E5%91%8A%23"
+            },
+            {
+              "name": "《封神2》番位",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%B0%81%E7%A5%9E2%E3%80%8B%E7%95%AA%E4%BD%8D%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 动作 战争 奇幻 古装 / 乌尔善 / 黄渤 于适",
+          "label": "",
+          "id": "30181250",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "封神第二部：战火西岐",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": true,
+          "score": 101200,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 动作 战争 奇幻 / 乌尔善 / 黄渤 于适",
+          "url": "https://m.douban.com/movie/subject/30181250/",
+          "release_date": "01.29",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2917559392.jpg",
+            "width": 5646,
+            "shape": "rectangle",
+            "height": 8357
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECTE6FIUY?type=rank&category=movie&rank_type=year",
+              "rank": 2,
+              "title": "豆瓣2024最值得期待华语电影"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "尚未上映"
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 63200,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+          },
+          "rank_value": 8,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p466727772.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p466727772.jpg"
+          },
+          "is_new": true,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/movie/1309015",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+            "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+          ],
+          "year": "2004",
+          "card_subtitle": "2004 / 阿根廷 美国 智利 秘鲁 巴西 英国 德国 法国 / 剧情 传记 冒险 / 沃尔特·塞勒斯 / 盖尔·加西亚·贝纳尔 罗德里戈·德拉·塞尔纳",
+          "label": "",
+          "id": "1309015",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "摩托日记",
+          "trend_equal": false,
+          "rank_value_changed": 3,
+          "trend_up": true,
+          "score": 88800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "阿根廷 美国 智利 秘鲁 巴西 英国 德国 法国 / 剧情 传记 冒险 / 沃尔特·塞勒斯 / 盖尔·加西亚·贝纳尔 罗德里戈·德拉·塞尔纳",
+          "url": "https://m.douban.com/movie/subject/1309015/",
+          "release_date": "01.15",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p466727772.jpg",
+            "width": 811,
+            "shape": "rectangle",
+            "height": 1200
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECUYI3KFQ?type=rank&category=movie&rank_type=award_movie",
+              "rank": 9,
+              "title": "第58届英国电影学院奖获奖名单"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 183949,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+          },
+          "rank_value": 9,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2912441039.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912441039.jpg"
+          },
+          "is_new": false,
+          "actions": [],
+          "uri": "douban://douban.com/movie/35882838",
+          "related_search_terms": [
+            {
+              "name": "《某种物质》男性凝视",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E6%9F%90%E7%A7%8D%E7%89%A9%E8%B4%A8%E3%80%8B%E7%94%B7%E6%80%A7%E5%87%9D%E8%A7%86%23"
+            },
+            {
+              "name": "恐怖片《某种物质》成戛纳爆款",
+              "uri": "douban://douban.com/search/result?q=%23%E6%81%90%E6%80%96%E7%89%87%E3%80%8A%E6%9F%90%E7%A7%8D%E7%89%A9%E8%B4%A8%E3%80%8B%E6%88%90%E6%88%9B%E7%BA%B3%E7%88%86%E6%AC%BE%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2024",
+          "card_subtitle": "2024 / 法国 英国 美国 / 剧情 恐怖 / 科拉莉·法尔雅 / 黛米·摩尔 玛格丽特·库里",
+          "label": "",
+          "id": "35882838",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "某种物质",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 86100,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "法国 英国 美国 / 剧情 恐怖 / 科拉莉·法尔雅 / 黛米·摩尔 玛格丽特·库里",
+          "url": "https://m.douban.com/movie/subject/35882838/",
+          "release_date": "05.19",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2912441039.jpg",
+            "width": 1944,
+            "shape": "rectangle",
+            "height": 2844
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECFAOK5WQ?type=rank&category=movie&rank_type=film_genre",
+              "rank": 8,
+              "title": "欧洲恐怖片榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 413179,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+          },
+          "rank_value": 10,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2916690139.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916690139.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/1937946",
+          "related_search_terms": [],
+          "vendor_icons": [],
+          "year": "2006",
+          "card_subtitle": "2006 / 日本 / 剧情 爱情 科幻 动画 / 细田守 / 仲里依纱 石田卓也",
+          "label": "",
+          "id": "1937946",
+          "recommended_reason": "",
+          "trend_down": true,
+          "title": "穿越时空的少女",
+          "trend_equal": false,
+          "rank_value_changed": 3,
+          "trend_up": false,
+          "score": 76800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "日本 / 剧情 爱情 科幻 / 细田守 / 仲里依纱 石田卓也",
+          "url": "https://m.douban.com/movie/subject/1937946/",
+          "release_date": "01.11",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2916690139.jpg",
+            "width": 5098,
+            "shape": "rectangle",
+            "height": 7214
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECLYO6JQQ?type=rank&category=movie&rank_type=film_genre",
+              "rank": 19,
+              "title": "日本动画片榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        }
+      ]
+    },
+    {
+      "release_time": "2025-01-25 22:23:28",
+      "update_time": "2025-01-25T22:23:28+0000",
+      "description": "实时热门书影音（20个）",
+      "source": [
+        "https://movie.douban.com/chart",
+        "https://m.douban.com/subject_collection/subject_real_time_hotest"
+      ],
+      "movie_total": 20,
+      "cluster_total": 0,
+      "movies": [
+        {
+          "title": "漂白",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "曹凯",
+          "genre": "剧情 犯罪",
+          "tag": "douban-hot-list",
+          "rank": 1,
+          "douban_id": "36678419",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36678419/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917469456.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 5.8,
+            "douban_vote": 83646,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 犯罪 / 曹凯 / 郭京飞 王千源",
+              "中国大陆 / 剧情 犯罪 / 曹凯 / 郭京飞 王千源"
+            ],
+            "douban_reward": [],
+            "douban_comment": [
+              "看了三集，极度生理不适。污名化女性+通过虐杀女性编造剧情。女主赵今麦离家出走的原因是母亲暴力，爹完美隐身。四个杀手专挑单身女性尤其是阶层低、...-- 紅豬手黃藤酒 (star=1)"
+            ],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "国色芳华",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "丁梓光",
+          "genre": "剧情 古装",
+          "tag": "douban-hot-list",
+          "rank": 2,
+          "douban_id": "36126283",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36126283/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917205606.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 7.8,
+            "douban_vote": 238747,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 古装 / 丁梓光 / 杨紫 李现",
+              "中国大陆 / 剧情 古装 / 丁梓光 / 杨紫 李现"
+            ],
+            "douban_reward": [
+              "一周华语口碑剧集榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "异人之下之决战！碧游村",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "许宏宇",
+          "genre": "剧情 奇幻",
+          "tag": "douban-hot-list",
+          "rank": 3,
+          "douban_id": "36575783",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36575783/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917410188.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 奇幻 / 许宏宇 / 彭昱畅 王影璐",
+              "中国大陆 / 剧情 奇幻 / 许宏宇 / 彭昱畅 王影璐"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "大奉打更人",
+          "category": "tv",
+          "year": 2024,
+          "region": "中国大陆",
+          "director": "邓科",
+          "genre": "喜剧 悬疑 奇幻 古装",
+          "tag": "douban-hot-list",
+          "rank": 4,
+          "douban_id": "35490175",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35490175/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914334116.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 5.4,
+            "douban_vote": 141500,
+            "douban_info": [
+              "2024 / 中国大陆 / 喜剧 悬疑 奇幻 古装 / 邓科 / 王鹤棣 田曦薇",
+              "中国大陆 / 喜剧 悬疑 奇幻 / 邓科 / 王鹤棣 田曦薇"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "白月梵星",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "朱锐斌",
+          "genre": "剧情 爱情 奇幻",
+          "tag": "douban-hot-list",
+          "rank": 5,
+          "douban_id": "36094754",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36094754/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2898763012.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 5.8,
+            "douban_vote": 146972,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 爱情 奇幻 / 朱锐斌 / 白鹿 敖瑞鹏",
+              "中国大陆 / 剧情 爱情 奇幻 / 朱锐斌 / 白鹿 敖瑞鹏"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "好东西",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国大陆",
+          "director": "邵艺辉",
+          "genre": "剧情 爱情",
+          "tag": "douban-hot-list",
+          "rank": 6,
+          "douban_id": "36154853",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36154853/",
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg",
+            "douban_type": "电影",
+            "douban_score": 9.0,
+            "douban_vote": 842095,
+            "douban_info": [
+              "2024 / 中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+              "中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦"
+            ],
+            "douban_reward": [
+              "豆瓣2024评分最高喜剧片"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "人生切割术 第二季",
+          "category": "tv",
+          "year": 2025,
+          "region": "美国",
+          "director": "本·斯蒂勒 乌塔·布里泽维茨 塞缪尔·多诺万 杰西卡·李·加涅",
+          "genre": "剧情 科幻 悬疑 惊悚",
+          "tag": "douban-hot-list",
+          "rank": 7,
+          "douban_id": "35783948",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35783948/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916136388.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 9.0,
+            "douban_vote": 3723,
+            "douban_info": [
+              "2025 / 美国 / 剧情 科幻 悬疑 惊悚 / 本·斯蒂勒 乌塔·布里泽维茨 塞缪尔·多诺万 杰西卡·李·加涅 / 亚当·斯科特 帕特丽夏·阿奎特",
+              "美国 / 剧情 科幻 悬疑 / 本·斯蒂勒 / 亚当·斯科特 帕特丽夏·阿奎特"
+            ],
+            "douban_reward": [
+              "豆瓣2024最值得期待剧集"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "锦囊妙录",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "顾其铭 郭锋",
+          "genre": "剧情 爱情 古装",
+          "tag": "douban-hot-list",
+          "rank": 8,
+          "douban_id": "35744858",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35744858/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917717856.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 爱情 古装 / 顾其铭 郭锋 / 胡冰卿 翟子路",
+              "中国大陆 / 剧情 爱情 古装 / 顾其铭 / 胡冰卿 翟子路"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "五福临门",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "杨欢 白云默 马诗歌",
+          "genre": "剧情 喜剧 爱情 古装",
+          "tag": "douban-hot-list",
+          "rank": 9,
+          "douban_id": "36636704",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36636704/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2915237446.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 喜剧 爱情 古装 / 杨欢 白云默 马诗歌 / 倪虹洁 卢昱晓",
+              "中国大陆 / 剧情 喜剧 爱情 / 杨欢 / 倪虹洁 卢昱晓"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "致1999年的自己",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "黎志",
+          "genre": "剧情",
+          "tag": "douban-hot-list",
+          "rank": 10,
+          "douban_id": "35929301",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35929301/",
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917679731.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 / 黎志 / 李昀锐 黄杨钿甜",
+              "中国大陆 / 剧情 / 黎志 / 李昀锐 黄杨钿甜"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "九重紫",
+          "category": "tv",
+          "year": 2024,
+          "region": "中国大陆",
+          "director": "曾庆杰",
+          "genre": "剧情 爱情 古装",
+          "tag": "douban-hot-list",
+          "rank": 11,
+          "douban_id": "36185935",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36185935/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917713095.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 7.7,
+            "douban_vote": 185790,
+            "douban_info": [
+              "2024 / 中国大陆 / 剧情 爱情 古装 / 曾庆杰 / 孟子义 李昀锐",
+              "中国大陆 / 剧情 爱情 古装 / 曾庆杰 / 孟子义 李昀锐"
+            ],
+            "douban_reward": [
+              "一周华语口碑剧集榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "蛟龙行动",
+          "category": "movie",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "林超贤",
+          "genre": "剧情 动作 战争",
+          "tag": "douban-hot-list",
+          "rank": 12,
+          "douban_id": "35295960",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35295960/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917596815.jpg",
+            "douban_type": "电影",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+              "中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适"
+            ],
+            "douban_reward": [
+              "豆瓣2025最值得期待华语电影"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "相思令",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "麦贯之",
+          "genre": "剧情 古装",
+          "tag": "douban-hot-list",
+          "rank": 13,
+          "douban_id": "36189503",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36189503/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893474329.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 古装 / 麦贯之 / 杨颖 宋威龙",
+              "中国大陆 / 剧情 古装 / 麦贯之 / 杨颖 宋威龙"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "驻站",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "刘雪松",
+          "genre": "剧情 喜剧 犯罪",
+          "tag": "douban-hot-list",
+          "rank": 14,
+          "douban_id": "36016488",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36016488/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917109116.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 6.8,
+            "douban_vote": 10622,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 喜剧 犯罪 / 刘雪松 / 郭京飞 陈数",
+              "中国大陆 / 剧情 喜剧 犯罪 / 刘雪松 / 郭京飞 陈数"
+            ],
+            "douban_reward": [
+              "一周华语口碑剧集榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "破·地狱",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国香港",
+          "director": "陈茂贤",
+          "genre": "剧情 家庭",
+          "tag": "douban-hot-list",
+          "rank": 15,
+          "douban_id": "36712987",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36712987/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915837972.jpg",
+            "douban_type": "电影",
+            "douban_score": 8.4,
+            "douban_vote": 194479,
+            "douban_info": [
+              "2024 / 中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+              "中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文"
+            ],
+            "douban_reward": [
+              "2024年度榜单高分电影精选"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "一路繁花",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "吴彤",
+          "genre": "真人秀",
+          "tag": "douban-hot-list",
+          "rank": 16,
+          "douban_id": "37054769",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/37054769/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917320420.jpg",
+            "douban_type": "综艺",
+            "douban_score": 5.2,
+            "douban_vote": 2704,
+            "douban_info": [
+              "2025 / 中国大陆 / 真人秀 / 吴彤 / 蔡明 陈岚",
+              "中国大陆 / 真人秀 / 吴彤 / 蔡明 陈岚"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "唐探1900",
+          "category": "movie",
+          "year": 2025,
+          "region": "中国大陆 中国香港",
+          "director": "陈思诚 戴墨",
+          "genre": "喜剧 动作 悬疑",
+          "tag": "douban-hot-list",
+          "rank": 17,
+          "douban_id": "36282639",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36282639/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917556416.jpg",
+            "douban_type": "电影",
+            "douban_score": 0,
+            "douban_vote": 0,
+            "douban_info": [
+              "2025 / 中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 戴墨 / 王宝强 刘昊然",
+              "中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "去唱卡拉OK吧！",
+          "category": "movie",
+          "year": 2023,
+          "region": "日本",
+          "director": "山下敦弘",
+          "genre": "喜剧 音乐",
+          "tag": "douban-hot-list",
+          "rank": 18,
+          "douban_id": "35863319",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35863319/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917349358.jpg",
+            "douban_type": "电影",
+            "douban_score": 7.8,
+            "douban_vote": 37014,
+            "douban_info": [
+              "2023 / 日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+              "日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润"
+            ],
+            "douban_reward": [
+              "豆瓣2024评分最高日本电影"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "误杀3",
+          "category": "movie",
+          "year": 2024,
+          "region": "中国大陆 中国香港",
+          "director": "甘剑宇",
+          "genre": "剧情 悬疑 犯罪",
+          "tag": "douban-hot-list",
+          "rank": 19,
+          "douban_id": "35815771",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35815771/",
+            "douban_cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916533607.jpg",
+            "douban_type": "电影",
+            "douban_score": 6.1,
+            "douban_vote": 114585,
+            "douban_info": [
+              "2024 / 中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+              "中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅"
+            ],
+            "douban_reward": [],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        },
+        {
+          "title": "千朵桃花一世开",
+          "category": "tv",
+          "year": 2025,
+          "region": "中国大陆",
+          "director": "何澍培",
+          "genre": "剧情 古装",
+          "tag": "douban-hot-list",
+          "rank": 20,
+          "douban_id": "36137153",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36137153/",
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917378811.jpg",
+            "douban_type": "电视剧",
+            "douban_score": 6.7,
+            "douban_vote": 17802,
+            "douban_info": [
+              "2025 / 中国大陆 / 剧情 古装 / 何澍培 / 张彬彬 孙珍妮",
+              "中国大陆 / 剧情 古装 / 何澍培 / 张彬彬 孙珍妮"
+            ],
+            "douban_reward": [
+              "一周华语口碑剧集榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [],
+            "douban_summary": ""
+          }
+        }
+      ],
+      "draft": [
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 83646,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.8
+          },
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917469456.jpg",
+            "width": 2000,
+            "shape": "rectangle",
+            "height": 3000
+          },
+          "rank_value": 1,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917469456.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917469456.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36678419",
+          "related_search_terms": [
+            {
+              "name": "《漂白》编剧回应抄袭",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E6%BC%82%E7%99%BD%E3%80%8B%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%E6%8A%84%E8%A2%AD%23"
+            },
+            {
+              "name": "《漂白》故事原型",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E6%BC%82%E7%99%BD%E3%80%8B%E6%95%85%E4%BA%8B%E5%8E%9F%E5%9E%8B%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/634a77c4a77d80a2a4f49ed7aaf0bc076fec7d01/pics/vendors/iqiyi.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 犯罪 / 曹凯 / 郭京飞 王千源",
+          "label": "",
+          "id": "36678419",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "漂白",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "comments": [
+            {
+              "comment": "看了三集，极度生理不适。污名化女性+通过虐杀女性编造剧情。女主赵今麦离家出走的原因是母亲暴力，爹完美隐身。四个杀手专挑单身女性尤其是阶层低、...-- 紅豬手黃藤酒",
+              "rating": {
+                "count": 1,
+                "max": 5,
+                "star_count": 1,
+                "value": 1
+              },
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/36678419/interest/4417005448",
+              "show_time_tip": false,
+              "is_voted": false,
+              "uri": "douban://douban.com/tv/36678419/interest/4417005448",
+              "platforms": [],
+              "vote_count": 6314,
+              "create_time": "2025-01-18 20:03:15",
+              "status": "done",
+              "user": {
+                "loc": {
+                  "id": "108288",
+                  "name": "北京",
+                  "uid": "beijing"
+                },
+                "reg_time": "2009-01-15 11:21:10",
+                "followed": false,
+                "name": "紅豬手黃藤酒",
+                "in_blacklist": false,
+                "url": "https://www.douban.com/people/3500472/",
+                "gender": "",
+                "id": "3500472",
+                "uri": "douban://douban.com/user/3500472",
+                "avatar": "https://img3.doubanio.com/icon/up3500472-12.jpg",
+                "avatar_side_icon": "https://img1.doubanio.com/view/files/raw/file-1730343160.png",
+                "remark": "",
+                "avatar_side_icon_id": "349",
+                "avatar_side_icon_type": 3,
+                "is_club": false,
+                "type": "user",
+                "kind": "user",
+                "uid": "zhang3ying"
+              },
+              "ip_location": "北京",
+              "recommend_reason": "",
+              "user_done_desc": "",
+              "id": "4417005448",
+              "wechat_timeline_share": "screenshot"
+            }
+          ],
+          "trend_up": false,
+          "score": 2741900,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 犯罪 / 曹凯 / 郭京飞 王千源",
+          "rating_data": {
+            "stats": [
+              0.16811392844737758,
+              0.18443904133379646,
+              0.3310177144841959,
+              0.2018061827023272,
+              0.11462313303230288
+            ],
+            "type_ranks": []
+          },
+          "url": "https://m.douban.com/movie/subject/36678419/",
+          "release_date": "01.17",
+          "original_title": "",
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 238747,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+          },
+          "rank_value": 2,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917205606.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917205606.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36126283",
+          "related_search_terms": [
+            {
+              "name": "《国色芳华》结局女主做妾",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E3%80%8B%E7%BB%93%E5%B1%80%E5%A5%B3%E4%B8%BB%E5%81%9A%E5%A6%BE%23"
+            },
+            {
+              "name": "国色芳华金疙瘩札记",
+              "uri": "douban://douban.com/search/result?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%87%91%E7%96%99%E7%98%A9%E6%9C%AD%E8%AE%B0%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 古装 / 丁梓光 / 杨紫 李现",
+          "label": "",
+          "id": "36126283",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "国色芳华",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 1226400,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 古装 / 丁梓光 / 杨紫 李现",
+          "url": "https://m.douban.com/movie/subject/36126283/",
+          "release_date": "01.07",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917205606.jpg",
+            "width": 1581,
+            "shape": "rectangle",
+            "height": 2880
+          },
+          "honor_infos": [
+            {
+              "kind": "tv",
+              "uri": "douban://douban.com/subject_collection/tv_chinese_best_weekly?type=rank&category=movie&rank_type=weekly",
+              "rank": 2,
+              "title": "一周华语口碑剧集榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 3,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917410188.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917410188.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36575783",
+          "related_search_terms": [
+            {
+              "name": "《异人之下2》预告已经秒了乌尔善",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B2%E3%80%8B%E9%A2%84%E5%91%8A%E5%B7%B2%E7%BB%8F%E7%A7%92%E4%BA%86%E4%B9%8C%E5%B0%94%E5%96%84%23"
+            },
+            {
+              "name": "异人之下2 朵宝奇兵",
+              "uri": "douban://douban.com/search/result?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B2%20%E6%9C%B5%E5%AE%9D%E5%A5%87%E5%85%B5%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 奇幻 / 许宏宇 / 彭昱畅 王影璐",
+          "label": "",
+          "id": "36575783",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "异人之下之决战！碧游村",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 859500,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 奇幻 / 许宏宇 / 彭昱畅 王影璐",
+          "url": "https://m.douban.com/movie/subject/36575783/",
+          "release_date": "01.18",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917410188.jpg",
+            "width": 2813,
+            "shape": "rectangle",
+            "height": 5000
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "暂无评分"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 141500,
+            "max": 10,
+            "star_count": 2.5,
+            "value": 5.4
+          },
+          "rank_value": 4,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2914334116.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914334116.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/35490175",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+          ],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 / 喜剧 悬疑 奇幻 古装 / 邓科 / 王鹤棣 田曦薇",
+          "label": "",
+          "id": "35490175",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "大奉打更人",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 639800,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 喜剧 悬疑 奇幻 / 邓科 / 王鹤棣 田曦薇",
+          "url": "https://m.douban.com/movie/subject/35490175/",
+          "release_date": "12.28",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2914334116.jpg",
+            "width": 2160,
+            "shape": "rectangle",
+            "height": 3840
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 146972,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.8
+          },
+          "rank_value": 5,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2898763012.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2898763012.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36094754",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/634a77c4a77d80a2a4f49ed7aaf0bc076fec7d01/pics/vendors/iqiyi.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 爱情 奇幻 / 朱锐斌 / 白鹿 敖瑞鹏",
+          "label": "",
+          "id": "36094754",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "白月梵星",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 575000,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 爱情 奇幻 / 朱锐斌 / 白鹿 敖瑞鹏",
+          "url": "https://m.douban.com/movie/subject/36094754/",
+          "release_date": "01.07",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2898763012.jpg",
+            "width": 1080,
+            "shape": "rectangle",
+            "height": 1920
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 842095,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.0
+          },
+          "rank_value": 6,
+          "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2915454411.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915454411.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放",
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36154853",
+          "related_search_terms": [
+            {
+              "name": "《好东西》台词太灵了",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%A5%BD%E4%B8%9C%E8%A5%BF%E3%80%8B%E5%8F%B0%E8%AF%8D%E5%A4%AA%E7%81%B5%E4%BA%86%23"
+            },
+            {
+              "name": "《好东西》里那些隐藏的细节",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%A5%BD%E4%B8%9C%E8%A5%BF%E3%80%8B%E9%87%8C%E9%82%A3%E4%BA%9B%E9%9A%90%E8%97%8F%E7%9A%84%E7%BB%86%E8%8A%82%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
+            "https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+            "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+          ],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+          "label": "",
+          "id": "36154853",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "好东西",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 542800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 爱情 / 邵艺辉 / 宋佳 钟楚曦",
+          "url": "https://m.douban.com/movie/subject/36154853/",
+          "release_date": "11.22",
+          "cover": {
+            "url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2915454411.jpg",
+            "width": 5906,
+            "shape": "rectangle",
+            "height": 8425
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECLE7RV6Y?type=rank&category=movie&rank_type=year",
+              "rank": 1,
+              "title": "豆瓣2024评分最高喜剧片"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 3723,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.0
+          },
+          "rank_value": 7,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2916136388.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916136388.jpg"
+          },
+          "is_new": false,
+          "actions": [],
+          "uri": "douban://douban.com/tv/35783948",
+          "related_search_terms": [
+            {
+              "name": "人生切割术2 班味儿",
+              "uri": "douban://douban.com/search/result?q=%23%E4%BA%BA%E7%94%9F%E5%88%87%E5%89%B2%E6%9C%AF2%20%E7%8F%AD%E5%91%B3%E5%84%BF%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 美国 / 剧情 科幻 悬疑 惊悚 / 本·斯蒂勒 乌塔·布里泽维茨 塞缪尔·多诺万 杰西卡·李·加涅 / 亚当·斯科特 帕特丽夏·阿奎特",
+          "label": "",
+          "id": "35783948",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "人生切割术 第二季",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": true,
+          "score": 373500,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "美国 / 剧情 科幻 悬疑 / 本·斯蒂勒 / 亚当·斯科特 帕特丽夏·阿奎特",
+          "url": "https://m.douban.com/movie/subject/35783948/",
+          "release_date": "01.17",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2916136388.jpg",
+            "width": 2000,
+            "shape": "rectangle",
+            "height": 3000
+          },
+          "honor_infos": [
+            {
+              "kind": "tv",
+              "uri": "douban://douban.com/subject_collection/ECYM6MCVA?type=rank&category=movie&rank_type=year",
+              "rank": 8,
+              "title": "豆瓣2024最值得期待剧集"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 8,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917717856.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917717856.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/35744858",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 爱情 古装 / 顾其铭 郭锋 / 胡冰卿 翟子路",
+          "label": "",
+          "id": "35744858",
+          "recommended_reason": "",
+          "trend_down": true,
+          "title": "锦囊妙录",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": false,
+          "score": 354400,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 爱情 古装 / 顾其铭 / 胡冰卿 翟子路",
+          "url": "https://m.douban.com/movie/subject/35744858/",
+          "release_date": "01.14",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917717856.jpg",
+            "width": 3240,
+            "shape": "rectangle",
+            "height": 5760
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "暂无评分"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 9,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2915237446.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2915237446.jpg"
+          },
+          "is_new": true,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36636704",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 爱情 古装 / 杨欢 白云默 马诗歌 / 倪虹洁 卢昱晓",
+          "label": "",
+          "id": "36636704",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "五福临门",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 315300,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 喜剧 爱情 / 杨欢 / 倪虹洁 卢昱晓",
+          "url": "https://m.douban.com/movie/subject/36636704/",
+          "release_date": "01.25",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2915237446.jpg",
+            "width": 5000,
+            "shape": "rectangle",
+            "height": 6999
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "暂无评分"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 10,
+          "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2917679731.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917679731.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/35929301",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 / 黎志 / 李昀锐 黄杨钿甜",
+          "label": "",
+          "id": "35929301",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "致1999年的自己",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 216900,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 / 黎志 / 李昀锐 黄杨钿甜",
+          "url": "https://m.douban.com/movie/subject/35929301/",
+          "release_date": "01.24",
+          "cover": {
+            "url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2917679731.jpg",
+            "width": 1688,
+            "shape": "rectangle",
+            "height": 3000
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "暂无评分"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 185790,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+          },
+          "rank_value": 11,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917713095.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917713095.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36185935",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+          ],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 / 剧情 爱情 古装 / 曾庆杰 / 孟子义 李昀锐",
+          "label": "",
+          "id": "36185935",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "九重紫",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 209300,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 爱情 古装 / 曾庆杰 / 孟子义 李昀锐",
+          "url": "https://m.douban.com/movie/subject/36185935/",
+          "release_date": "12.06",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917713095.jpg",
+            "width": 1772,
+            "shape": "rectangle",
+            "height": 3150
+          },
+          "honor_infos": [
+            {
+              "kind": "tv",
+              "uri": "douban://douban.com/subject_collection/tv_chinese_best_weekly?type=rank&category=movie&rank_type=weekly",
+              "rank": 5,
+              "title": "一周华语口碑剧集榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 12,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917596815.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917596815.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35295960",
+          "related_search_terms": [
+            {
+              "name": "《蛟龙行动》定档大年初一",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%AE%9A%E6%A1%A3%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23"
+            },
+            {
+              "name": "《蛟龙行动》开除夕夜零点场",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%BC%80%E9%99%A4%E5%A4%95%E5%A4%9C%E9%9B%B6%E7%82%B9%E5%9C%BA%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+          "label": "",
+          "id": "35295960",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "蛟龙行动",
+          "trend_equal": false,
+          "rank_value_changed": 2,
+          "trend_up": true,
+          "score": 187800,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 动作 战争 / 林超贤 / 黄轩 于适",
+          "url": "https://m.douban.com/movie/subject/35295960/",
+          "release_date": "01.29",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917596815.jpg",
+            "width": 4429,
+            "shape": "rectangle",
+            "height": 6200
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/EC6Q7WZGQ?type=rank&category=movie&rank_type=year",
+              "rank": 10,
+              "title": "豆瓣2025最值得期待华语电影"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "尚未上映"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 13,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2893474329.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893474329.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36189503",
+          "related_search_terms": [
+            {
+              "name": "相思令 抠图不自赏2.0",
+              "uri": "douban://douban.com/search/result?q=%23%E7%9B%B8%E6%80%9D%E4%BB%A4%20%E6%8A%A0%E5%9B%BE%E4%B8%8D%E8%87%AA%E8%B5%8F2.0%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 古装 / 麦贯之 / 杨颖 宋威龙",
+          "label": "",
+          "id": "36189503",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "相思令",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 174700,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 古装 / 麦贯之 / 杨颖 宋威龙",
+          "url": "https://m.douban.com/movie/subject/36189503/",
+          "release_date": "01.20",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2893474329.jpg",
+            "width": 3072,
+            "shape": "rectangle",
+            "height": 5474
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "暂无评分"
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 10622,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.8
+          },
+          "rank_value": 14,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917109116.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917109116.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36016488",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 犯罪 / 刘雪松 / 郭京飞 陈数",
+          "label": "",
+          "id": "36016488",
+          "recommended_reason": "",
+          "trend_down": true,
+          "title": "驻站",
+          "trend_equal": false,
+          "rank_value_changed": 2,
+          "trend_up": false,
+          "score": 155400,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 喜剧 犯罪 / 刘雪松 / 郭京飞 陈数",
+          "url": "https://m.douban.com/movie/subject/36016488/",
+          "release_date": "01.05",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917109116.jpg",
+            "width": 3546,
+            "shape": "rectangle",
+            "height": 6304
+          },
+          "honor_infos": [
+            {
+              "kind": "tv",
+              "uri": "douban://douban.com/subject_collection/tv_chinese_best_weekly?type=rank&category=movie&rank_type=weekly",
+              "rank": 9,
+              "title": "一周华语口碑剧集榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 194479,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.4
+          },
+          "rank_value": 15,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915837972.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915837972.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36712987",
+          "related_search_terms": [],
+          "vendor_icons": [],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+          "label": "",
+          "id": "36712987",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "破·地狱",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 148000,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国香港 / 剧情 家庭 / 陈茂贤 / 黄子华 许冠文",
+          "url": "https://m.douban.com/movie/subject/36712987/",
+          "release_date": "12.14",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2915837972.jpg",
+            "width": 3000,
+            "shape": "rectangle",
+            "height": 4209
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECEY7UILA?type=rank&category=movie&rank_type=year",
+              "rank": 3,
+              "title": "2024年度榜单高分电影精选"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "综艺",
+          "rating": {
+            "count": 2704,
+            "max": 10,
+            "star_count": 2.5,
+            "value": 5.2
+          },
+          "rank_value": 16,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917320420.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917320420.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/37054769",
+          "related_search_terms": [
+            {
+              "name": "《一路繁花》问题最大的其实是向太吧",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1%E3%80%8B%E9%97%AE%E9%A2%98%E6%9C%80%E5%A4%A7%E7%9A%84%E5%85%B6%E5%AE%9E%E6%98%AF%E5%90%91%E5%A4%AA%E5%90%A7%23"
+            },
+            {
+              "name": "李小冉应该不能轻易舔自己的嘴唇",
+              "uri": "douban://douban.com/search/result?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BA%94%E8%AF%A5%E4%B8%8D%E8%83%BD%E8%BD%BB%E6%98%93%E8%88%94%E8%87%AA%E5%B7%B1%E7%9A%84%E5%98%B4%E5%94%87%23"
+            }
+          ],
+          "vendor_icons": [
+            "https://img9.doubanio.com/f/frodo/634a77c4a77d80a2a4f49ed7aaf0bc076fec7d01/pics/vendors/iqiyi.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 真人秀 / 吴彤 / 蔡明 陈岚",
+          "label": "",
+          "id": "37054769",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "一路繁花",
+          "trend_equal": false,
+          "rank_value_changed": 4,
+          "trend_up": true,
+          "score": 129200,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 真人秀 / 吴彤 / 蔡明 陈岚",
+          "url": "https://m.douban.com/movie/subject/37054769/",
+          "release_date": "01.10",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917320420.jpg",
+            "width": 1440,
+            "shape": "rectangle",
+            "height": 1920
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 0,
+            "max": 10,
+            "star_count": 0.0,
+            "value": 0
+          },
+          "rank_value": 17,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917556416.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917556416.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/36282639",
+          "related_search_terms": [
+            {
+              "name": "《唐探1900》定档大年初一",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%94%90%E6%8E%A21900%E3%80%8B%E5%AE%9A%E6%A1%A3%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 戴墨 / 王宝强 刘昊然",
+          "label": "",
+          "id": "36282639",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "唐探1900",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 115100,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 中国香港 / 喜剧 动作 悬疑 / 陈思诚 / 王宝强 刘昊然",
+          "url": "https://m.douban.com/movie/subject/36282639/",
+          "release_date": "01.29",
+          "cover": {
+            "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2917556416.jpg",
+            "width": 3545,
+            "shape": "rectangle",
+            "height": 4960
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": "尚未上映"
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 37014,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+          },
+          "rank_value": 18,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917349358.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917349358.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35863319",
+          "related_search_terms": [
+            {
+              "name": "电影去唱卡拉OK吧嗑点多到可怕",
+              "uri": "douban://douban.com/search/result?q=%23%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%94%B1%E5%8D%A1%E6%8B%89OK%E5%90%A7%E5%97%91%E7%82%B9%E5%A4%9A%E5%88%B0%E5%8F%AF%E6%80%95%23"
+            },
+            {
+              "name": "《去唱卡拉OK吧！》内地定档",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E5%8E%BB%E5%94%B1%E5%8D%A1%E6%8B%89OK%E5%90%A7%EF%BC%81%E3%80%8B%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2023",
+          "card_subtitle": "2023 / 日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+          "label": "",
+          "id": "35863319",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "去唱卡拉OK吧！",
+          "trend_equal": true,
+          "rank_value_changed": 0,
+          "trend_up": false,
+          "score": 114200,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "日本 / 喜剧 音乐 / 山下敦弘 / 绫野刚 斋藤润",
+          "url": "https://m.douban.com/movie/subject/35863319/",
+          "release_date": "01.17",
+          "cover": {
+            "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917349358.jpg",
+            "width": 9472,
+            "shape": "rectangle",
+            "height": 14208
+          },
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/ECRY73E2Q?type=rank&category=movie&rank_type=year",
+              "rank": 2,
+              "title": "豆瓣2024评分最高日本电影"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电影",
+          "rating": {
+            "count": 114585,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.1
+          },
+          "rank_value": 19,
+          "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2916533607.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916533607.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可购票"
+          ],
+          "uri": "douban://douban.com/movie/35815771",
+          "related_search_terms": [
+            {
+              "name": "《误杀3》提档",
+              "uri": "douban://douban.com/search/result?q=%23%E3%80%8A%E8%AF%AF%E6%9D%803%E3%80%8B%E6%8F%90%E6%A1%A3%23"
+            }
+          ],
+          "vendor_icons": [],
+          "year": "2024",
+          "card_subtitle": "2024 / 中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+          "label": "",
+          "id": "35815771",
+          "recommended_reason": "",
+          "trend_down": true,
+          "title": "误杀3",
+          "trend_equal": false,
+          "rank_value_changed": 3,
+          "trend_up": false,
+          "score": 108000,
+          "interest": null,
+          "type": "movie",
+          "description": "",
+          "has_linewatch": false,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 中国香港 / 剧情 悬疑 犯罪 / 甘剑宇 / 肖央 佟丽娅",
+          "url": "https://m.douban.com/movie/subject/35815771/",
+          "release_date": "12.28",
+          "cover": {
+            "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2916533607.jpg",
+            "width": 3506,
+            "shape": "rectangle",
+            "height": 4902
+          },
+          "honor_infos": [],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        },
+        {
+          "original_price": "",
+          "type_name": "电视剧",
+          "rating": {
+            "count": 17802,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.7
+          },
+          "rank_value": 20,
+          "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2917378811.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2917378811.jpg"
+          },
+          "is_new": false,
+          "actions": [
+            "可播放"
+          ],
+          "uri": "douban://douban.com/tv/36137153",
+          "related_search_terms": [],
+          "vendor_icons": [
+            "https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png"
+          ],
+          "year": "2025",
+          "card_subtitle": "2025 / 中国大陆 / 剧情 古装 / 何澍培 / 张彬彬 孙珍妮",
+          "label": "",
+          "id": "36137153",
+          "recommended_reason": "",
+          "trend_down": false,
+          "title": "千朵桃花一世开",
+          "trend_equal": false,
+          "rank_value_changed": 1,
+          "trend_up": true,
+          "score": 102600,
+          "interest": null,
+          "type": "tv",
+          "description": "",
+          "has_linewatch": true,
+          "price": "",
+          "date": null,
+          "info": "中国大陆 / 剧情 古装 / 何澍培 / 张彬彬 孙珍妮",
+          "url": "https://m.douban.com/movie/subject/36137153/",
+          "release_date": "01.02",
+          "cover": {
+            "url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2917378811.jpg",
+            "width": 5906,
+            "shape": "rectangle",
+            "height": 10498
+          },
+          "honor_infos": [
+            {
+              "kind": "tv",
+              "uri": "douban://douban.com/subject_collection/tv_chinese_best_weekly?type=rank&category=movie&rank_type=weekly",
+              "rank": 10,
+              "title": "一周华语口碑剧集榜"
+            }
+          ],
+          "subtype": "",
+          "reviewer_name": "",
+          "null_rating_reason": ""
+        }
+      ]
+    },
+    {
+      "release_time": "2025-01-25 22:23:28",
+      "update_time": "2025-01-25T22:23:28+0000",
+      "description": "一周口碑电影榜（10部）",
+      "source": [
+        "https://movie.douban.com/chart",
+        "https://m.douban.com/subject_collection/movie_weekly_best"
+      ],
+      "movie_total": 10,
+      "cluster_total": 0,
+      "movies": [
+        {
+          "title": "黑箱日记",
+          "category": "movie",
+          "year": 2024,
+          "region": "美国 英国 日本",
+          "director": "伊藤诗织",
+          "genre": "纪录片",
+          "tag": "douban-hot-list",
+          "rank": 1,
+          "douban_id": "36675987",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36675987/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2906032559.jpg",
+            "douban_type": "movie",
+            "douban_score": 9.2,
+            "douban_vote": 6322,
+            "douban_info": [
+              "2024 / 美国 英国 日本 / 纪录片 / 伊藤诗织 / 伊藤诗织",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "纪录片",
+              "连续上榜3周"
+            ],
+            "douban_summary": "《黑箱日记》是一部由伊藤诗织执导的纪录片，记录了记者伊藤诗织勇敢地调查自己遭遇的性侵案，并起诉身份显赫的侵犯者。"
+          }
+        },
+        {
+          "title": "隔壁房间",
+          "category": "movie",
+          "year": 2024,
+          "region": "西班牙 美国 法国",
+          "director": "佩德罗·阿莫多瓦",
+          "genre": "剧情",
+          "tag": "douban-hot-list",
+          "rank": 2,
+          "douban_id": "36687720",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36687720/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911534490.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.7,
+            "douban_vote": 10784,
+            "douban_info": [
+              "2024 / 西班牙 美国 法国 / 剧情 / 佩德罗·阿莫多瓦 / 朱丽安·摩尔 蒂尔达·斯文顿",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "威尼斯主竞赛单元金狮奖",
+              "连续上榜2周",
+              "女性"
+            ],
+            "douban_summary": "英格丽和玛莎年轻时是好朋友，她们曾在同一家杂志社工作。失联多年后，她们重新开始了联系。"
+          }
+        },
+        {
+          "title": "我生活的两个世界",
+          "category": "movie",
+          "year": 2024,
+          "region": "日本",
+          "director": "吴美保",
+          "genre": "剧情 家庭",
+          "tag": "douban-hot-list",
+          "rank": 3,
+          "douban_id": "36680402",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36680402/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910230489.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.6,
+            "douban_vote": 813,
+            "douban_info": [
+              "2024 / 日本 / 剧情 家庭 / 吴美保 / 吉泽亮 忍足亚希子",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "家庭"
+            ],
+            "douban_summary": "双亲失聪，让五十岚大从小成为父母与外界沟通的桥梁，同时令他在成长中经历无数挣扎与困惑。"
+          }
+        },
+        {
+          "title": "九十岁。有什么可喜可贺的",
+          "category": "movie",
+          "year": 2024,
+          "region": "日本",
+          "director": "前田哲",
+          "genre": "喜剧",
+          "tag": "douban-hot-list",
+          "rank": 4,
+          "douban_id": "36621371",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36621371/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907523374.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.9,
+            "douban_vote": 1977,
+            "douban_info": [
+              "2024 / 日本 / 喜剧 / 前田哲 / 草笛光子 唐泽寿明",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "喜剧",
+              "连续上榜2周"
+            ],
+            "douban_summary": "90岁的直木奖获奖作家佐藤爱子现已封笔，她和女儿、外孙女一起过着慵懒的生活。一天，一位中年编辑邀请她撰写一篇随笔。"
+          }
+        },
+        {
+          "title": "辣妹刺客3",
+          "category": "movie",
+          "year": 2024,
+          "region": "日本",
+          "director": "阪元裕吾",
+          "genre": "喜剧 动作",
+          "tag": "douban-hot-list",
+          "rank": 5,
+          "douban_id": "36613599",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36613599/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911173870.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.8,
+            "douban_vote": 1587,
+            "douban_info": [
+              "2024 / 日本 / 喜剧 动作 / 阪元裕吾 / 高石明里 伊泽彩织",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "喜剧",
+              "动作"
+            ],
+            "douban_summary": "千里、真寻是杀手业界厉害的女高生杀手二人组，两人合作无间，展开了新同居生活，而且要找到与正常人相同的工作来赚钱。"
+          }
+        },
+        {
+          "title": "狗的审判",
+          "category": "movie",
+          "year": 2024,
+          "region": "瑞士 法国",
+          "director": "利蒂希亚·多施",
+          "genre": "喜剧",
+          "tag": "douban-hot-list",
+          "rank": 6,
+          "douban_id": "35682279",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35682279/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917306109.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.3,
+            "douban_vote": 4123,
+            "douban_info": [
+              "2024 / 瑞士 法国 / 喜剧 / 利蒂希亚·多施 / 科迪 利蒂希亚·多施",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "戛纳一种关注单元一种关注大奖提名"
+            ],
+            "douban_summary": "艾薇儿是一名败案累累的年轻女律师，下个案子却是跟她一样绝望的客户——科斯莫，一只因为经常袭击她人而被判死刑的狗。"
+          }
+        },
+        {
+          "title": "没有天堂，但有爱情",
+          "category": "movie",
+          "year": 2023,
+          "region": "韩国",
+          "director": "韩制易",
+          "genre": "同性",
+          "tag": "douban-hot-list",
+          "rank": 7,
+          "douban_id": "36340040",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36340040/",
+            "douban_cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913454498.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.1,
+            "douban_vote": 341,
+            "douban_info": [
+              "2023 / 韩国 / 同性 / 韩制易 / 朴秀妍 李瑜美",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "同性"
+            ],
+            "douban_summary": "1999年夏天，在暴力不断增加的世界里，高中生兼跆拳道选手珠英和参加了寄养计划的艺智在彼此的陪伴中找到了慰藉。"
+          }
+        },
+        {
+          "title": "荆棘天堂",
+          "category": "movie",
+          "year": 2024,
+          "region": "泰国",
+          "director": "纳卢拜·库诺",
+          "genre": "剧情 惊悚 同性",
+          "tag": "douban-hot-list",
+          "rank": 8,
+          "douban_id": "36915343",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36915343/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910756956.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.0,
+            "douban_vote": 477,
+            "douban_info": [
+              "2024 / 泰国 / 剧情 惊悚 同性 / 纳卢拜·库诺 / 罗杰夫 瑛法·瓦拉哈",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "同性"
+            ],
+            "douban_summary": "未婚同性恋情侣努力打拼后有了榴莲农场，一方意外身亡后，他的家人以婚姻未获合法承认为由没收了财产。幸存的伴侣为夺回共同财产和毕生心血而奋斗。"
+          }
+        },
+        {
+          "title": "厨房",
+          "category": "movie",
+          "year": 2024,
+          "region": "墨西哥 美国",
+          "director": "阿隆索·帕拉西奥斯",
+          "genre": "剧情",
+          "tag": "douban-hot-list",
+          "rank": 9,
+          "douban_id": "35881314",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/35881314/",
+            "douban_cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2904257621.jpg",
+            "douban_type": "movie",
+            "douban_score": 7.2,
+            "douban_vote": 1624,
+            "douban_info": [
+              "2024 / 墨西哥 美国 / 剧情 / 阿隆索·帕拉西奥斯 / 劳尔·布里奥内斯 鲁妮·玛拉",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "柏林电影节主竞赛单元金熊奖提名"
+            ],
+            "douban_summary": "纽约一家餐厅的后厨，在午餐高峰期间，来自世界各地的厨师、帮厨、服务员都汇聚在这里。"
+          }
+        },
+        {
+          "title": "王者天下4",
+          "category": "movie",
+          "year": 2024,
+          "region": "日本",
+          "director": "佐藤信介",
+          "genre": "动作",
+          "tag": "douban-hot-list",
+          "rank": 10,
+          "douban_id": "36001527",
+          "imdb_id": null,
+          "douban": null,
+          "imdb": null,
+          "extra": {
+            "douban_url": "https://movie.douban.com/subject/36001527/",
+            "douban_cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906773406.jpg",
+            "douban_type": "movie",
+            "douban_score": 6.9,
+            "douban_vote": 736,
+            "douban_info": [
+              "2024 / 日本 / 动作 / 佐藤信介 / 山崎贤人 吉泽亮",
+              ""
+            ],
+            "douban_reward": [
+              "一周口碑电影榜"
+            ],
+            "douban_comment": [],
+            "douban_tag": [
+              "动作"
+            ],
+            "douban_summary": "就在秦国继续为统一该地区而战的同时，其邻国却从北方入侵秦国。"
+          }
+        }
+      ],
+      "draft": [
+        {
+          "comment": "",
+          "rating": {
+            "count": 6322,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+          },
+          "controversy_reason": "",
+          "rank_value": 1,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2906032559.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2906032559.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36675987",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 美国 英国 日本 / 纪录片 / 伊藤诗织 / 伊藤诗织",
+          "id": "36675987",
+          "trend_down": false,
+          "title": "黑箱日记",
+          "trend_equal": true,
+          "trend_up": false,
+          "is_released": true,
+          "rank_value_changed": 0,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5b5272",
+            "_base_color": [
+              0.7142857142857143,
+              0.28,
+              0.19607843137254902
+            ],
+            "secondary_color": "f6f4f9",
+            "_avg_color": [
+              0.7111111111111112,
+              0.19480519480519476,
+              0.30196078431372547
+            ],
+            "primary_color_dark": "3d374c"
+          },
+          "type": "movie",
+          "description": "《黑箱日记》是一部由伊藤诗织执导的纪录片，记录了记者伊藤诗织勇敢地调查自己遭遇的性侵案，并起诉身份显赫的侵犯者。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "纪录片"
+            },
+            {
+              "type": "continuous",
+              "name": "连续上榜3周"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2906032559.jpg",
+          "photos": [
+            "https://img3.doubanio.com/view/photo/m/public/p2906655582.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2906655554.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2906655474.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2916582377.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36675987",
+          "url": "https://movie.douban.com/subject/36675987/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 1,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 93,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 10784,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+          },
+          "controversy_reason": "",
+          "rank_value": 2,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2911534490.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911534490.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36687720",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 西班牙 美国 法国 / 剧情 / 佩德罗·阿莫多瓦 / 朱丽安·摩尔 蒂尔达·斯文顿",
+          "id": "36687720",
+          "trend_down": false,
+          "title": "隔壁房间",
+          "trend_equal": true,
+          "trend_up": false,
+          "is_released": true,
+          "rank_value_changed": 0,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e3e",
+            "_base_color": [
+              0.051724137931034475,
+              0.45312499999999994,
+              0.5019607843137255
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+              0.05059523809523808,
+              0.4444444444444444,
+              0.49411764705882355
+            ],
+            "primary_color_dark": "4c3429"
+          },
+          "type": "movie",
+          "description": "英格丽和玛莎年轻时是好朋友，她们曾在同一家杂志社工作。失联多年后，她们重新开始了联系。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "威尼斯主竞赛单元金狮奖"
+            },
+            {
+              "type": "continuous",
+              "name": "连续上榜2周"
+            },
+            {
+              "type": "manual",
+              "name": "女性"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2911534490.jpg",
+          "photos": [
+            "https://img3.doubanio.com/view/photo/m/public/p2910984817.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2912821137.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2915294497.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2915294559.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36687720",
+          "url": "https://movie.douban.com/subject/36687720/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 2,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 68,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 813,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
+          },
+          "controversy_reason": "",
+          "rank_value": 3,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910230489.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910230489.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36680402",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 日本 / 剧情 家庭 / 吴美保 / 吉泽亮 忍足亚希子",
+          "id": "36680402",
+          "trend_down": false,
+          "title": "我生活的两个世界",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 8,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "919ea5",
+            "_base_color": [
+              0.56,
+              0.11961722488038276,
+              0.8196078431372549
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+              0.5263157894736844,
+              0.11515151515151525,
+              0.6470588235294118
+            ],
+            "primary_color_dark": "707a7f"
+          },
+          "type": "movie",
+          "description": "双亲失聪，让五十岚大从小成为父母与外界沟通的桥梁，同时令他在成长中经历无数挣扎与困惑。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "家庭"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910230489.jpg",
+          "photos": [
+            "https://img9.doubanio.com/view/photo/m/public/p2912447625.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2912447620.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2908913300.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2908913299.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36680402",
+          "url": "https://movie.douban.com/subject/36680402/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 3,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 67,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 1977,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.9
+          },
+          "controversy_reason": "",
+          "rank_value": 4,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2907523374.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907523374.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36621371",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 日本 / 喜剧 / 前田哲 / 草笛光子 唐泽寿明",
+          "id": "36621371",
+          "trend_down": false,
+          "title": "九十岁。有什么可喜可贺的",
+          "trend_equal": true,
+          "trend_up": false,
+          "is_released": true,
+          "rank_value_changed": 0,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a51710",
+            "_base_color": [
+              0.007532956685499026,
+              0.898477157360406,
+              0.7725490196078432
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+              0.02329749103942652,
+              0.6326530612244897,
+              0.5764705882352941
+            ],
+            "primary_color_dark": "7f120c"
+          },
+          "type": "movie",
+          "description": "90岁的直木奖获奖作家佐藤爱子现已封笔，她和女儿、外孙女一起过着慵懒的生活。一天，一位中年编辑邀请她撰写一篇随笔。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "喜剧"
+            },
+            {
+              "type": "continuous",
+              "name": "连续上榜2周"
+            }
+          ],
+          "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2907523374.jpg",
+          "photos": [
+            "https://img1.doubanio.com/view/photo/m/public/p2908023508.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2908023460.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2908023443.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2908023496.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36621371",
+          "url": "https://movie.douban.com/subject/36621371/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 4,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 69,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 1587,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+          },
+          "controversy_reason": "",
+          "rank_value": 5,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2911173870.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911173870.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36613599",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 日本 / 喜剧 动作 / 阪元裕吾 / 高石明里 伊泽彩织",
+          "id": "36613599",
+          "trend_down": false,
+          "title": "辣妹刺客3",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 6,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72725c",
+            "_base_color": [
+              0.16666666666666666,
+              0.1935483870967742,
+              0.12156862745098039
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+              0.11538461538461538,
+              0.24074074074074067,
+              0.21176470588235294
+            ],
+            "primary_color_dark": "4c4c3d"
+          },
+          "type": "movie",
+          "description": "千里、真寻是杀手业界厉害的女高生杀手二人组，两人合作无间，展开了新同居生活，而且要找到与正常人相同的工作来赚钱。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "喜剧"
+            },
+            {
+              "type": "manual",
+              "name": "动作"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2911173870.jpg",
+          "photos": [
+            "https://img3.doubanio.com/view/photo/m/public/p2916182662.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2912122306.jpg",
+            "https://img2.doubanio.com/view/photo/m/public/p2916182691.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2916182659.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36613599",
+          "url": "https://movie.douban.com/subject/36613599/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 5,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 66,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 4123,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+          },
+          "controversy_reason": "",
+          "rank_value": 6,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917306109.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2917306109.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/35682279",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 瑞士 法国 / 喜剧 / 利蒂希亚·多施 / 科迪 利蒂希亚·多施",
+          "id": "35682279",
+          "trend_down": false,
+          "title": "狗的审判",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 5,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56823",
+            "_base_color": [
+              0.08865248226950355,
+              0.7877094972067039,
+              0.7019607843137254
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+              0.0893939393939394,
+              0.6875,
+              0.6274509803921569
+            ],
+            "primary_color_dark": "7f501b"
+          },
+          "type": "movie",
+          "description": "艾薇儿是一名败案累累的年轻女律师，下个案子却是跟她一样绝望的客户——科斯莫，一只因为经常袭击她人而被判死刑的狗。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "戛纳一种关注单元一种关注大奖提名"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2917306109.jpg",
+          "photos": [
+            "https://img1.doubanio.com/view/photo/m/public/p2913572748.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2917520189.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2913572744.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2917520215.jpg"
+          ],
+          "actions": [
+            "可购票"
+          ],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/35682279",
+          "url": "https://movie.douban.com/subject/35682279/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 6,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 51,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 341,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+          },
+          "controversy_reason": "",
+          "rank_value": 7,
+          "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2913454498.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913454498.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36340040",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2023 / 韩国 / 同性 / 韩制易 / 朴秀妍 李瑜美",
+          "id": "36340040",
+          "trend_down": false,
+          "title": "没有天堂，但有爱情",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 4,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a2",
+            "_base_color": [
+              0.16666666666666666,
+              0.01851851851851845,
+              0.8470588235294118
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+              0.09523809523809519,
+              0.07954545454545459,
+              0.6901960784313725
+            ],
+            "primary_color_dark": "7f7f7d"
+          },
+          "type": "movie",
+          "description": "1999年夏天，在暴力不断增加的世界里，高中生兼跆拳道选手珠英和参加了寄养计划的艺智在彼此的陪伴中找到了慰藉。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "同性"
+            }
+          ],
+          "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2913454498.jpg",
+          "photos": [
+            "https://img1.doubanio.com/view/photo/m/public/p2913454968.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2913454967.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2913454943.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2913454942.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36340040",
+          "url": "https://movie.douban.com/subject/36340040/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 7,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 55,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 477,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.0
+          },
+          "controversy_reason": "",
+          "rank_value": 8,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910756956.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910756956.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36915343",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 泰国 / 剧情 惊悚 同性 / 纳卢拜·库诺 / 罗杰夫 瑛法·瓦拉哈",
+          "id": "36915343",
+          "trend_down": false,
+          "title": "荆棘天堂",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 3,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "647256",
+            "_base_color": [
+              0.25,
+              0.24489795918367346,
+              0.19215686274509805
+            ],
+            "secondary_color": "f7f9f4",
+            "_avg_color": [
+              0.1025641025641026,
+              0.325,
+              0.3137254901960784
+            ],
+            "primary_color_dark": "434c39"
+          },
+          "type": "movie",
+          "description": "未婚同性恋情侣努力打拼后有了榴莲农场，一方意外身亡后，他的家人以婚姻未获合法承认为由没收了财产。幸存的伴侣为夺回共同财产和毕生心血而奋斗。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "同性"
+            }
+          ],
+          "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910756956.jpg",
+          "photos": [
+            "https://img9.doubanio.com/view/photo/m/public/p2917257535.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2917257534.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2917257533.jpg",
+            "https://img2.doubanio.com/view/photo/m/public/p2917257531.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36915343",
+          "url": "https://movie.douban.com/subject/36915343/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 8,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 48,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 1624,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+          },
+          "controversy_reason": "",
+          "rank_value": 9,
+          "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2904257621.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2904257621.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/35881314",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 墨西哥 美国 / 剧情 / 阿隆索·帕拉西奥斯 / 劳尔·布里奥内斯 鲁妮·玛拉",
+          "id": "35881314",
+          "trend_down": false,
+          "title": "厨房",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 2,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727070",
+            "_base_color": [
+              0.0,
+              0.01960784313725497,
+              0.2
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+              0.0,
+              0.05154639175257728,
+              0.3803921568627451
+            ],
+            "primary_color_dark": "4c4a4a"
+          },
+          "type": "movie",
+          "description": "纽约一家餐厅的后厨，在午餐高峰期间，来自世界各地的厨师、帮厨、服务员都汇聚在这里。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "柏林电影节主竞赛单元金熊奖提名"
+            }
+          ],
+          "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2904257621.jpg",
+          "photos": [
+            "https://img1.doubanio.com/view/photo/m/public/p2903586899.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2903479123.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2904591734.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/35881314",
+          "url": "https://movie.douban.com/subject/35881314/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 9,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 59,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        },
+        {
+          "comment": "",
+          "rating": {
+            "count": 736,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.9
+          },
+          "controversy_reason": "",
+          "rank_value": 10,
+          "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2906773406.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906773406.jpg"
+          },
+          "rank": 1,
+          "uri": "douban://douban.com/movie/36001527",
+          "is_show": false,
+          "vendor_icons": [],
+          "card_subtitle": "2024 / 日本 / 动作 / 佐藤信介 / 山崎贤人 吉泽亮",
+          "id": "36001527",
+          "trend_down": false,
+          "title": "王者天下4",
+          "trend_equal": false,
+          "trend_up": true,
+          "is_released": true,
+          "rank_value_changed": 1,
+          "interest": null,
+          "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b4f",
+            "_base_color": [
+              0.05555555555555556,
+              0.3103448275862069,
+              0.22745098039215686
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+              0.07638888888888891,
+              0.4,
+              0.47058823529411764
+            ],
+            "primary_color_dark": "4c3c34"
+          },
+          "type": "movie",
+          "description": "就在秦国继续为统一该地区而战的同时，其邻国却从北方入侵秦国。",
+          "tags": [
+            {
+              "type": "manual",
+              "name": "动作"
+            }
+          ],
+          "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2906773406.jpg",
+          "photos": [
+            "https://img9.doubanio.com/view/photo/m/public/p2909863314.jpg",
+            "https://img3.doubanio.com/view/photo/m/public/p2910999842.jpg",
+            "https://img9.doubanio.com/view/photo/m/public/p2910999836.jpg",
+            "https://img1.doubanio.com/view/photo/m/public/p2909863448.jpg"
+          ],
+          "actions": [],
+          "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36001527",
+          "url": "https://movie.douban.com/subject/36001527/",
+          "honor_infos": [
+            {
+              "kind": "movie",
+              "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+              "rank": 10,
+              "title": "一周口碑电影榜"
+            }
+          ],
+          "good_rating_stats": 46,
+          "subtype": "movie",
+          "null_rating_reason": "",
+          "has_linewatch": false
+        }
+      ]
+    }
+  ]
+}
